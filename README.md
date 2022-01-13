@@ -7,4 +7,4 @@ https://github.com/mateusavila/dev-pessoas-de-tech-2
 
 Resultado do desafio:
 
-https://luizabchagas.github.io/desafio-dev-hall/
+https://luizabchagas.github.io/desafio-front-tech-people/
